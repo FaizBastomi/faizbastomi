@@ -42,5 +42,5 @@
 |    [![Streaks](https://streak-stats.demolab.com/?user=FaizBastomi&theme=radical)](https://streak-stats.demolab.com/)    |
 
 |    FaizBastomi Stats    |    Top Languages    |
-|:------------------------:|:--------------------:|
-|    [![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&hide_rank=true&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app)    |    [![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)    |
+| :---------------------: | :-------------------: |
+|    [![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&hide=stars&show_icons=true&locale=en&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=radical)](https://github-readme-stats.vercel.app)    |    [![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)    |
