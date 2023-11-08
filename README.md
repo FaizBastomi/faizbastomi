@@ -20,11 +20,13 @@
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=CodeIgniter&logoColor=fff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=fff)
+  ![Laravel](https://img.shields.io/badge/Laravel-f55247?style=for-the-badge&logo=laravel&logoColor=fff)
 
 - Databases & Cloud Hosting: &nbsp;
 
   ![GitHub Pages](https://img.shields.io/badge/GitHub%20pages-000?style=for-the-badge&logo=github&logoColor=fff)
-  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-00758f?style=for-the-badge&logo=mariadb)
+  ![SQLite](https://img.shields.io/badge/SQLite-003a57?style=for-the-badge&logo=sqlite&logoColor=fff)
 
 - Software & Tools: &nbsp;
 
