@@ -14,6 +14,7 @@
   ![Typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
   ![PHP](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=fff)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=fff)
 
 - Frameworks: &nbsp;
 
@@ -21,6 +22,7 @@
   ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=CodeIgniter&logoColor=fff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=fff)
   ![Laravel](https://img.shields.io/badge/Laravel-f55247?style=for-the-badge&logo=laravel&logoColor=fff)
+  ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django)
 
 - Databases & Cloud Hosting: &nbsp;
 
