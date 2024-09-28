@@ -15,6 +15,7 @@
   ![PHP](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=fff)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
   ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=fff)
+  ![Go](https://img.shields.io/badge/Go-01adde?style=for-the-badge&logo=go&logoColor=fff)
 
 - Frameworks: &nbsp;
 
@@ -36,6 +37,8 @@
   ![Stack Overflow](https://img.shields.io/badge/Stack_overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=fff)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=androidstudio&logoColor=fff)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=fff)
+  ![GoLand](https://img.shields.io/badge/GoLand-4669f9?style=for-the-badge&logo=goland&logoColor=fff)
 
 ### ⚙ &nbsp;GitHub Analytics
 
